@@ -1,3 +1,1 @@
-@color a
-@echo test
-@pause
+x=msgbox("I'm in your device" ,0, "!")
